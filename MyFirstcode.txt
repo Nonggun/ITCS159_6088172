@@ -1,2 +1,3 @@
 "The faculty of Information and Communication and Technology"
 "This is my new feature"
+“add from the myNewFeature”
